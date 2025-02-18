@@ -14,4 +14,7 @@ Storing raw CRM and ERP data.
 
 ### **IAM Role**
 - IAM Role for the Redshift cluster will be used to provide access to the data in the S3 bucket.
-- AWS service --> Choose a use case --> Redshift --> Select your use case --> Redshift — Customizable
+- AWS service --> Choose a use case --> Redshift --> Select your use case --> Redshift — Customizable --> Attach permissions --> PowerUserAccess
+
+### **Launch Redshift Cluster**
+launch a Redshift cluster, which will be used to query the S3-based data.
