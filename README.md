@@ -10,3 +10,5 @@ Storing raw CRM and ERP data.
 - Create a folder.
 - Upload the data files to the new Amazon S3 bucket.
 
+<img src="awsbucketdedwproject01.PNG" alt="AWS Bucket DW Project" width="500">
+
