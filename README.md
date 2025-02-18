@@ -13,5 +13,5 @@ Storing raw CRM and ERP data.
 <img src="awsbucketdedwproject01.PNG" alt="AWS Bucket DW Project" width="500">
 
 ### **IAM Role**
-IAM Role for the Redshift cluster will be used to provide access to the data in the S3 bucket.
-AWS service --> Choose a use case --> Redshift --> Select your use case --> Redshift — Customizable
+- IAM Role for the Redshift cluster will be used to provide access to the data in the S3 bucket.
+- AWS service --> Choose a use case --> Redshift --> Select your use case --> Redshift — Customizable
