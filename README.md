@@ -5,4 +5,8 @@ This project aims to build a centralized data warehouse on Amazon Redshift, inte
 ---
 
 ### **S3 Bucket**
+Storing raw CRM and ERP data.
+- Create a bucket in Amazon S3(awsbucketdedwproject01).
+- Create a folder.
+- Upload the data files to the new Amazon S3 bucket.
 
